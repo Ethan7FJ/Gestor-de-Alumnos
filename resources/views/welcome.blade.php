@@ -11,7 +11,7 @@
 
 <body class="bg-gray-100 text-gray-800">
     <div class="container mx-auto py-10 px-4">
-        <h1 class="text-3xl font-bold mb-6 text-center">Listado de Alumnos</h1>
+        <h1 class="text-3xl font-bold mb-6 text-center">Listado de Alumnos de la clase 1A</h1>
 
         <table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
             <thead class="bg-blue-600 text-white">
